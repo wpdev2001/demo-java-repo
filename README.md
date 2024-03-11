@@ -1,3 +1,3 @@
 # demo-java-repo
-Author: Piyush Wankar <br>
+Author: Piyush WP <br>
 This is my first code commit
